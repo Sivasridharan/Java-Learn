@@ -16,6 +16,8 @@ public class reverse_number {
             num=num/10;
         }
         System.out.println(reverse_num);
+
+        s.close();
     }
     
 }

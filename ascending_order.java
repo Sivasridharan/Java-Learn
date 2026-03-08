@@ -1,5 +1,3 @@
-/* ascending order */
-
 public class ascending_order {
     public static void main(String[] args) {
         int arr[]={3,30,5,66,2,21,4,6,54};

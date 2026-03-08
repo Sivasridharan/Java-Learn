@@ -1,5 +1,3 @@
-/*descending order */
-
 public class descending_order {
     public static void main(String[] args) {
     int arr[]={3,4,5,66,2,21,4};
