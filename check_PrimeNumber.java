@@ -22,5 +22,6 @@ public class check_PrimeNumber {
         }else{
             System.out.println("Not A Prime Number");
         }
+        s.close();
     }
 }

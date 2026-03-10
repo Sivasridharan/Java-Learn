@@ -13,5 +13,6 @@ public class Fibonacci_Series {
             a=b;
             b=c;
         }
+        s.close();
     }
 }
