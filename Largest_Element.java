@@ -18,6 +18,6 @@ public class Largest_Element {
      }
      System.err.println("The Largest Element In The Array Is "+max);
 
-     s.close();
+     
  }   
 }

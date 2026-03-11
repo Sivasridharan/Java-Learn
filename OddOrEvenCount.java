@@ -23,7 +23,6 @@ public class OddOrEvenCount {
         System.out.println("Number of odds:"+odd);
         System.out.println("Number of evens:"+even);
 
-        s.close();
 
     }
 }
