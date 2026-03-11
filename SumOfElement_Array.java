@@ -17,5 +17,7 @@ public class SumOfElement_Array {
             sum=sum+result;
         }
         System.out.println("Sum of elements in the array: "+sum);
+
+        s.close();
     }
 }
